@@ -18,7 +18,7 @@ SELMAH is a spectral element code developed as part of a PhD project for simulat
 
 ## Publications and Presentations
 
-- **Péter Kávrán, Gusztáv Mayer, Gábor Házi**: *Hydrodynamics around a spacer of a VVER-440 Fuel Rod Bundle*, Proceedings of International Conference Nuclear Energy for New Europe, Portoroz, Slovenia, Sept. 6-9 2004.
+- **Péter Kávrán, Gusztáv Mayer, Gábor Házi**: *Hydrodynamics around a spacer of a VVER-440 Fuel Rod Bundle*, Proceedings of International Conference Nuclear Energy for New Europe, Portoroz, Slovenia, Sept. 6-9 2004.[pdf](http://www.iaea.org/inis/collection/NCLCollectionStore/_Public/37/086/37086800.pdf?r=1)
   
 - **Gábor Házi, Péter Kávrán**: *On the cubic deviations in lattice Boltzmann methods*, Journal of Physics A: Math. Gen. 39 (2006), 3127-3136.
 
