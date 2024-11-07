@@ -28,7 +28,7 @@ SELMAH is a spectral element code developed as part of a PhD project for simulat
 
 - **Péter Kávrán**: *Spectral Element Code Development for Incompressible Flow Simulations*, presentation at CIEMAT, Madrid, Spain, 8 Oct 2006.
 
-- **Péter Kávrán**: *Presentation at HLRS, Stuttgart*, 4 April 2007.(pdf)(https://docs.google.com/presentation/d/1tlKASPawLIMt0xye7AHZ0JUkAMEfKpal/edit?usp=share_link&ouid=115990964241051061048&rtpof=true&sd=true)
+- **Péter Kávrán**: *Presentation at HLRS, Stuttgart*, 4 April 2007.[pdf](https://docs.google.com/presentation/d/1tlKASPawLIMt0xye7AHZ0JUkAMEfKpal/edit?usp=share_link&ouid=115990964241051061048&rtpof=true&sd=true)
 
 Further details, including technical documentation and references to relevant publications, are available within the code repository.
 
