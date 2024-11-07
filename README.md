@@ -22,7 +22,7 @@ SELMAH is a spectral element code developed as part of a PhD project for simulat
   
 - **Gábor Házi, Péter Kávrán**: *On the cubic deviations in lattice Boltzmann methods*, Journal of Physics A: Math. Gen. 39 (2006), 3127-3136.
 
-- **Péter Kávrán**: *Spectral Element Code Development for Incompressible Flow Simulations In the Subchannel of a Fuel Rod Bundle*, Proceedings of 16th AER Symposium (2006).
+- **Péter Kávrán**: *Spectral Element Code Development for Incompressible Flow Simulations In the Subchannel of a Fuel Rod Bundle*, Proceedings of 16th AER Symposium (2006).[pdf](http://www.iaea.org/inis/collection/NCLCollectionStore/_Public/37/086/37086800.pdf?r=1)
 
 - **Péter Kávrán**: *Spectral Element Code Development for Magnetohydrodynamic Simulations*, 3rd Hungarian Plasma Physics and Fusion Technology Workshop, 20-21 April 2006.
 
