@@ -1,6 +1,6 @@
 # SELMAH (Spectral Element MAgnetoHydrodynamics)
 
-SELMAH is a spectral element code developed as part of a PhD project for simulating incompressible fluid dynamics and nonlinear magnetohydrodynamic (MHD) equations. It is designed to solve the incompressible Navier-Stokes equations and MHD instabilities in complex geometries, particularly for applications in fusion plasma simulations like tokamaks and stellarators. The code is implemented in C++ from scratch with an object-oriented approach and optimized for parallel computation in distributed memory environments.
+SELMAH is a spectral element code developed as part of a PhD project for simulating incompressible fluid dynamics and nonlinear magnetohydrodynamic (MHD) equations. It is designed to solve the incompressible Navier-Stokes equations and MHD instabilities in complex geometries. The code is implemented in C++ and optimized for parallel computation in distributed memory environments.
 
 ## Features
 
@@ -42,7 +42,6 @@ SELMAH is a spectral element code developed as part of a PhD project for simulat
 [![Watch the video](http://i3.ytimg.com/vi/AlxMUHqUlc8/hqdefault.jpg)](http://www.youtube.com/watch?v=erLk59H86ww)
 
 [![Watch the video](http://i3.ytimg.com/vi/eACH6_-J-3g/hqdefault.jpg)](https://www.youtube.com/watch?v=eACH6_-J-3g)
-
 
 ## Contact
 
