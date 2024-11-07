@@ -33,6 +33,11 @@ SELMAH is a spectral element code developed as part of a PhD project for simulat
 ## Movies
 [![Watch the video](http://i3.ytimg.com/vi/JB1vvxUFU9k/hqdefault.jpg)](https://www.youtube.com/watch?v=JB1vvxUFU9k)
 
+[![Watch the video](http://i3.ytimg.com/vi/ug1HFOyjuIc/hqdefault.jpg)](https://youtu.be/ug1HFOyjuIc)
+
+[![Watch the video](http://i3.ytimg.com/vi/pRj0MMali0Y/hqdefault.jpg)](https://youtu.be/pRj0MMali0Y)
+
+
 ## Contact
 
 For questions or contributions, please contact:
