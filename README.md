@@ -6,8 +6,10 @@ SELMAH is a spectral element code developed as part of a PhD project for simulat
 
 - **2D and 3D Solvers**: 
   - Semi-implicit Continuous Galerkin Spectral Element solver for incompressible flows
-  - Explicit and semi-implicit Continuous and Discontinuous Galerkin Spectral Element solver for MHD flows
   - Explicit Discontinuos Galerkin Spectral Element solver for Maxwell-equations
+  - Explicit Discontinuos Galerkin Spectral Element solver for Euler-equations, chock-capturing by artificial viscosity
+  - Explicit and semi-implicit Continuous and Discontinuous Galerkin Spectral Element solver for MHD flows
+  
 - **Parallel and Distributed Computing**: 
   - Parallelized using MPI and PETSc
   - Domain decomposition based on Metis for problem partitioning
