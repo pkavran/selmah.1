@@ -58,8 +58,6 @@ SELMAH is a spectral element code developed as part of a PhD project for simulat
 
 - Péter Kávrán: *Presentation at HLRS, Stuttgart*, 4 April 2007. [pdf in original README]
 
-(For full links to PDFs and slides, see the repository README: https://github.com/pkavran/selmah.1/blob/main/README.md)
-
 ## Contact
 
 www.linkedin.com/in/peter-kavran-07aab622
