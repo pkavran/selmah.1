@@ -46,7 +46,23 @@ SELMAH is a spectral element code developed as part of a PhD project for simulat
 
 ## Publications and Presentations
 
-(If you want, I can add a Publications section here with formatted citations — paste them or point me to a file in the repo.)
+- Péter Kávrán, Gusztáv Mayer, Gábor Házi: *Hydrodynamics around a spacer of a VVER-440 Fuel Rod Bundle*, Proceedings of International Conference Nuclear Energy for New Europe, Portoroz, Slovenia. 
+
+- Gábor Házi, Péter Kávrán: *On the cubic deviations in lattice Boltzmann methods*, Journal of Physics A: Math. Gen. 39 (2006), 3127–3136.
+
+- Péter Kávrán: *Spectral Element Code Development for Incompressible Flow Simulations In the Subchannel of a Fuel Rod Bundle*, Proceedings of 16th AER Symposium (2006). [pdf in original README]
+
+- Péter Kávrán: *Spectral Element Code Development for Magnetohydrodynamic Simulations*, 3rd Hungarian Plasma Physics and Fusion Technology Workshop, 20–21 April 2006. [ppt in original README]
+
+- Péter Kávrán: *Spectral Element Code Development for Incompressible Flow Simulations*, presentation at CIEMAT, Madrid, Spain, 8 Oct 2006.
+
+- Péter Kávrán: *Presentation at HLRS, Stuttgart*, 4 April 2007. [pdf in original README]
+
+(For full links to PDFs and slides, see the repository README: https://github.com/pkavran/selmah.1/blob/main/README.md)
+
+## Contact
+
+www.linkedin.com/in/peter-kavran-07aab622
 
 ---
 Generated from README.md of pkavran/selmah.1
