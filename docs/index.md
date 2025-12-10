@@ -1,7 +1,3 @@
----
-title: "SELMAH (Spectral Element MAgnetoHydrodynamics)"
-permalink: /
----
 
 # SELMAH (Spectral Element MAgnetoHydrodynamics)
 
